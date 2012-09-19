@@ -1,1 +1,4 @@
 Gives the uptime of the system.  If a computer name is provided as an argument, the uptime of that system will be given.  If no argument is provided, the local system's info is given.
+
+You should run this from the command prompt:
+  > cscript uptime.vbs [targetcomputer]
